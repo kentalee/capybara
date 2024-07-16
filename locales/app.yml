@@ -1,0 +1,17 @@
+_version: 2
+app_about:
+  en: "multi-scenario port forwarding tool"
+  zh-CN: "多场景端口转发工具"
+cmd_serve_about:
+  en: "Starting the Service in the foreground"
+  zh-CN: "在前台启动服务"
+arg_config_about:
+  en: "Path to config file"
+  zh-CN: "配置文件路径"
+arg_verbose_about:
+  en: "Show more details of the operation"
+  zh-CN: "配置文件路径"
+err_arg_required:
+  en: "arg `%{name}` is required"
+  zh-CN: "缺少必填的命令行参数 `%{name}`"
+  
